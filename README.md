@@ -1,0 +1,1 @@
+Developed an interactive command-line game that allows a user to play against a computer in a Rock, Paper, Scissors match, tracking game statistics such as wins, losses, draws, and streaks using data tracking, error handling, control structures, randomization and user inputs/outputs.
